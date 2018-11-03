@@ -71,16 +71,16 @@ h1{
   width: 100%;
 }
 
-.infoContent .block .icon-social{
+.infoContent .block .fab{
   font-size: 70px;
 }
 
 .btn{
   padding: 10px 20px;
   border-radius: 5px;
+  border: 2px solid #D4C31C;
   background-color: #107dd1;
-  color: white;
-  border-radius: 5px;
+  color: black;
   margin: 10px 0;
   display: inline-block;
   transition: 0.3s;

@@ -34,10 +34,10 @@ h1{
   justify-content: center;
 }
 
-.icon{
-  background-color: float 1.5s ease-out infinite;
+.content .icon{
+  animation: float 1.5s ease-out infinite;
   color: white;
-  font-size: 80px !important;
+  font-size: 80px;
 }
 
 .info{
@@ -65,9 +65,9 @@ h1{
   font-size: 25px;
   margin: 5px 0 10px 0;
   text-transform: uppercase;
-  letter-spacing: 5px
-  background-color: #2c9be0;
-  text-shadow: 2px 2px 10px black;
+  letter-spacing: 5px;
+  color: #2c9be0;
+  text-shadow: 2px 2px 2px white;
 }
 
 .infoContent .block{
